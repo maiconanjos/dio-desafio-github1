@@ -1,0 +1,12 @@
+Anotações GIT
+
+Comandos:
+ls > lista os arquivos na pasta
+cd + pasta > entra na pasta
+cd .. > volta para a pasta anterior
+
+git clone + link > irá clonar o arquivo do GIthub para a máquina
+git status > verificar status dos arquivos na máquina
+git add . > 
+git commit -m + "Descrição arquivo" > 
+git push origin main > envia os arquivos para o Github
