@@ -1,4 +1,4 @@
-Anotações GIT
+﻿Anotações GIT
 
 Comandos:
 ls > lista os arquivos na pasta
@@ -10,3 +10,4 @@ git status > verificar status dos arquivos na máquina
 git add . > 
 git commit -m + "Descrição arquivo" > 
 git push origin main > envia os arquivos para o Github
+git pull > recebe os arquivos do Github
