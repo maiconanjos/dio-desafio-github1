@@ -1,3 +1,5 @@
+//praticando edições no arquivo MD.
+
 # Instruções do primeiro desafio.
 ## Desafio Git/Github
 ### Criar o primeiro repositório no Github, utilizando comandos do Git.
